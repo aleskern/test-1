@@ -17,3 +17,4 @@ jaz sm boljši
 dddd
 jaz sm boljši
 še vedno sm boljši!
+3x neki
