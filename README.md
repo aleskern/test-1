@@ -9,3 +9,4 @@ nov komentar
 
 jaz sm boljši
 še vedno sm boljši!
+3x neki
