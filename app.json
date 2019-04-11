@@ -1,0 +1,24 @@
+{
+  "id": "ea3c841a-3911-4eb5-8aa5-1227d98c6007",
+  "name": "ALProject3",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "features": ["TranslationFile"]
+}

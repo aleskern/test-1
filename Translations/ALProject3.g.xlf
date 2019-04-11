@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject3">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2563963320 - Field 2563963320 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Low,High</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Warning Level - Field Warning Level - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2563963320 - Field 2563963320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Warning Level - Field Warning Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2563963320 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Warning Level - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 906303916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning Level Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 17673642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warning Level List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1663287836 - Field 2563963320 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Low,High</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustExt - Field Warning Level - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1663287836 - Field 2563963320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustExt - Field Warning Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 78565177 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Warning Level Enum - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 78565177 - EnumValue 3592530208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Warning Level Enum - EnumValue Low - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 78565177 - EnumValue 3116416530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Warning Level Enum - EnumValue High - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
